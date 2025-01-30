@@ -8,7 +8,7 @@
 
 <br>
 
-This project addresses the problem of object recognition by training and evaluating YOLO for efficiency and accuracy.
+This project addresses the problem of object recognition by training and evaluating YOLO for efficiency and accuracy on the PASCAL VOC 2012 dataset.
 <br><br>
 Performance Metrics:<br>
 
